@@ -1,0 +1,135 @@
+
+.header__tittle{background-color: #2D2D2D; display: block; border-top: solid 50px #2D2D2D;}
+
+
+.header__tittle__one{background-color: #565656; display: block; border-top: solid 50px #565656;}
+
+
+.about__me{ font-family: Arial Black; font-size: 15px; color: #E6E6E6;}
+
+
+
+.menu__bar{text-align: center;}
+
+.image__2{width: 300px; height: 180px; opacity: 0.4;}
+
+ .image__2:hover{opacity: 10; text-decoration: none;}
+
+ .text__fux{font-family: BatmanForeverAlternate; margin-top: 10px; color: #424242; font-size: 20px;}
+
+ .text__duis{font-size: 15px;}
+
+.main__all{margin-top: 80px}
+
+.latest__work{text-align: center; 
+	margin-top: 200px; 
+	font-family: Segoe UI Bold;}
+
+.last__dec{font-size: 18px; color: #9b9ba7;}
+.last__dec__2{color: black;}
+
+.block{display: block; 
+	background-color: #BFBFBF;
+	 height: 1400px;
+	 margin-top: -70px;}
+
+.block__1{display: block;
+	background-color: #2D2C2C; 
+	opacity: 0.5;
+margin-top: -140px;
+height: 200px;}
+
+
+
+.image__mywork{width: 8cm;}
+
+
+
+.block__3{display: block;
+	background-color:white;
+	 width: 8cm;
+	 height: 14cm;}
+
+.text__block__3{padding: 0px 15px; margin-top: -15px; font-family: BatmanForeverAlternate; color: #151515; font-size: 25px;}
+
+.prrf{padding-top: 20px;
+ padding-left: 15px; font-family: Coco Gothic; color: #BDBDBD; font-size: 15px;}
+
+.text__pr{padding-left: 20px;
+ width: 7cm; font-size: 15px; font-family: Coco Gothic;}
+
+.photos__main{padding-top: 50px; }
+
+.lorenzo__image{width: 15.5cm;}
+
+.lorenzo__main{margin-top: 200px; text-align: center;}
+
+.lorenzo__all{margin-top: 15px;}
+
+.box__infi{background-color: #2D2D2D; height: 250px}
+
+.col__text{text-align: center; margin-top: 50px;}
+
+.text__items__2{color: white;}
+
+.box__final{ background-color: #292e32;}
+
+.main__final{text-align: center; margin-top: 50px;}
+
+
+
+.text__colors{color: white;}
+
+.face{width: 40px;}
+
+
+
+.nel{color: white;
+	font-size: 12px;
+	text-decoration: none;
+	background-color: #777374;
+	padding: 5px 20px;
+	margin-top: -23px;
+	font-family: Microsoft YaHei;
+	border-top: solid 6px #777374;
+	border-bottom: solid 6px #777374;
+	border-radius: 20px;}
+
+.nel:hover{background-color: #949DAA; text-decoration: none; color: white;border-top: solid 6px #949DAA;
+	border-bottom: solid 6px #949DAA;}
+
+
+.image__mywork:hover{background-color: black; opacity: 0.5;}
+
+.about__foot{color: #d3d3d3; font-size: 20px;}
+
+.name__lor{font-family: BatmanForeverAlternate; color: white; margin-top: 50px; font-size: 120px;}
+
+.parrafo__master__one{font-family: BatmanForeverAlternate; color: white; margin-top: 4px; font-size: 15px;}
+
+
+
+.date__lorenzo{ color: #BDBDBD;}
+
+.date__lorenzo:hover{color: white; text-decoration: none;}
+
+
+.mod__face{
+	font-size: 12px;
+	text-decoration: none;
+	background-color: #3a4147;
+	padding: 5px 10px;
+	margin-top: -23px;
+	border-top: solid 16px #3a4147;
+	border-bottom: solid 16px #3a4147;
+	border-radius: 5px;}
+
+.mod__face:hover{background-color: #ef2356; border-top: solid 16px #ef2356; border-bottom: solid 16px #ef2356; }
+
+
+
+
+
+
+
+
